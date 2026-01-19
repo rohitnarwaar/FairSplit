@@ -24,7 +24,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center gap-2 text-teal-700 font-bold text-xl">
           <DollarSign size={24} />
-          <span>Splitwise</span>
+          <span>FairSplit</span>
         </div>
 
         {/* Hamburger for mobile */}
