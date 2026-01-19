@@ -5,7 +5,7 @@ import { Users, Plus, DollarSign, User } from "lucide-react";
 const Dashboard = () => {
   return (
     <div className="min-h-screen bg-gray-50 p-4 sm:p-6 text-center">
-      <h1 className="text-3xl sm:text-4xl font-bold text-teal-700">Splitwise</h1>
+      <h1 className="text-3xl sm:text-4xl font-bold text-teal-700">FairSplit</h1>
       <p className="text-gray-600 mt-1 mb-5 text-md sm:text-lg">
         Manage groups, expenses, and balances easily.
       </p>
