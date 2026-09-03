@@ -135,7 +135,7 @@ Splitwise for conceptual inspiration
 
 Google Gemini AI for AI integration
 
-Lucide Icons for UI components
+Lucide Icons for UI component
 
 ## 🛠 Future Improvements
 🔐 Add login/authentication
