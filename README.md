@@ -131,7 +131,7 @@ Integrating Google Gemini API
 Full-stack application lifecycle
 
 ## 🙌 Acknowledgments
-Splitwise for conceptual inspiration
+Splitwise for conceptual inspiration and technical inspiration aswell.
 
 Google Gemini AI for AI integration
 
